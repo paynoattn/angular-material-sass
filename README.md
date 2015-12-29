@@ -21,3 +21,5 @@ Go to ```angular-material-styles.scss``` and uncomment what you don't want.
 @import "src/components/chips/_chips-theme.scss";
 ...
 ```
+
+Then run ```npm install``` and ```gulp``` (must have [nodejs](https://nodejs.org/) installed)
