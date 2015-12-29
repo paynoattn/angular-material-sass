@@ -1,0 +1,25 @@
+{
+  "name": "angular-material-sass",
+  "version": "1.0.0",
+  "description": "Angular Material is great, but the scss is not included in the public distribution",
+  "main": "angular-material-styles.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paynoattn/angular-material-sass.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "sass"
+  ],
+  "author": "Chris Pawlukiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paynoattn/angular-material-sass/issues"
+  },
+  "homepage": "https://github.com/paynoattn/angular-material-sass#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
